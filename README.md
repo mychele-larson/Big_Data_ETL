@@ -1,4 +1,4 @@
-# Big Data ETL
+# Big Data ETL (Extract, Transform, Load)
 
 ![image](https://user-images.githubusercontent.com/110074895/224514436-b9601c57-8aa4-4a72-9740-f4192fd31e2d.png)
 
