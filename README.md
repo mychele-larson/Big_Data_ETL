@@ -1,6 +1,6 @@
 # Big Data ETL (Extract, Transform, Load)
 
-![image](https://user-images.githubusercontent.com/110074895/224514436-b9601c57-8aa4-4a72-9740-f4192fd31e2d.png)
+![image](https://user-images.githubusercontent.com/110074895/225188197-267bff79-23b2-48de-af05-91f8ad98f39b.png)
 
 Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon makes these datasets publicly available. They are quite large and can exceed the capacity of local machines. One dataset alone contains over 1.5 million rows; with over 40 datasets, data analysis can be very demanding on the average local computer. Your first goal will be to perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. The second goal will be to use PySpark or SQL to perform a statistical analysis of selected data
 
