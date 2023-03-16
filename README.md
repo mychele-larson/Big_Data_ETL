@@ -33,6 +33,44 @@ This Challenge contains two parts. *Part 1 is required. Part 2 is optional but h
   But are Vine reviews truly trustworthy?
   Your task is to investigate whether Vine reviews are free of bias. Use either PySpark or, for an extra challenge, SQL to analyze the data.
 
-  If you choose SQL, first use Spark on Colab to extract and transform the data and then load it into a SQL table on your RDS account. Perform your analysis with SQL       queries on RDS.   While there are no strict requirements for the analysis, consider steps you can take to reduce noisy data, such as filtering for reviews that meet a     certain number of helpful votes, total votes, or both.
+  If you choose SQL, first use Spark on Colab to extract and transform the data and then load it into a SQL table on your RDS account. Perform your analysis with SQL     queries on RDS. While there are no strict requirements for the analysis, consider steps you can take to reduce noisy data, such as filtering for reviews that meet a   certain number of helpful votes, total votes, or both.
 
  ### Submit a summary of your findings and analysis.
+ 
+ ## TOP 10 PRODUCTS WITH THE MOST AVERAGE TOTAL VOTES AND AVERAGE HELPFUL VOTES
+1.	Kyjen 2868 Slo-Bowl Slow Feeder Slow Feed Interactive Bloat Stop Dog Bowl, Large, Orange by Kyjen [Pet Supplies]
+2.	FRONTLINE PLUS for Dogs Flea & Tick 0-22 lbs Orange 3 Months
+3.	Omega Paw Large Roll 'n Clean Litter Box, Large Color:Green
+4.	Mini Naturals - 1 pound - Salmon Flavored
+5.	Smart Cat 3826 Cat Climber
+6.	Cat Genie Automatic Litter Box - AUTOMATICALLY FLUSHES CAT WASTE DOWN YOUR TOILET!
+7.	Merax Cat House Activity Tree
+8.	Lectro Soft Outdoor Pet Bed - 19 in. x 24 in.
+9.	Pet Zen Garden Premium Artificial Grass Patch w/ Drainage Holes & Rubber Backing | 4-Tone Realistic Synthetic Grass Mat | 1.6-inch Blade Height |Extra-Heavy & Soft Pet Turf | Lead-Free Fake Grass for Dogs or Outdoor DÃ©cor
+10.	PetSafe Wireless Instant Fence
+
+## TOP 10 PRODUCTS WITH THE MOST AVERAGE MOST HELPFUL VOTES
+
+1.	Kyjen 2868 Slo-Bowl Slow Feeder Slow Feed Interactive Bloat Stop Dog Bowl, Large, Orange by Kyjen [Pet Supplies]	
+3.	FRONTLINE PLUS for Dogs Flea & Tick 0-22 lbs Orange 3 Months	
+5.	Omega Paw Large Roll 'n Clean Litter Box, Large Color:Green	
+7.	Mini Naturals - 1 pound - Salmon Flavore.	
+9.	Smart Cat 3826 Cat Climber		
+11.	Cat Genie Automatic Litter Box - AUTOMATICALLY FLUSHES CAT WASTE DOWN YOUR TOILET!	
+13.	Merax Cat House Activity Tree	
+15.	Lectro Soft Outdoor Pet Bed - 19 in. x 24 in.		
+17.	Pet Zen Garden Premium Artificial Grass Patch w/ Drainage Holes & Rubber Backing | 4-Tone Realistic Synthetic Grass Mat | 1.6-inch Blade Height |Extra-Heavy & Soft Pet Turf | Lead-Free Fake Grass for Dogs or Outdoor Decor	
+19.	PetSafe Wireless Instant Fence	
+
+## TOP 10 PRODUCTS WITH THE MOST REVIEWS
+1.	Precious Cat Ultra-Premium Clumping Cat Litter
+2.	PetSafe Drinkwell Platinum Pet Fountain
+3.	Omega Paw Self-Cleaning Litter Box, Pewter
+4.	DakPets Dog Brush & Cat Brush For Small, Medium & Large Dogs and Cats, With Short to Long Hair. Dramatically Reduces Shedding In Minutes
+5.	Pioneer Pet SmartCat The Ultimate Scratching Post
+6.	Drinkwell Original Pet Fountain
+7.	Cat Dancer - Cat Charmer Wand Teaser Toy
+8.	Solvit PupSTEP Plus Pet Stairs
+9.	PetSafe Gentle Spray Bark Collar for Dogs, Citronella, Anti-Bark Device, Water Resistant
+10.	FURminator Large Yellow deShedding Tool with 4-Inch Edge
+
