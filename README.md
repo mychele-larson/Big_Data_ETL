@@ -13,6 +13,18 @@ This Challenge contains two parts. *Part 1 is required. Part 2 is optional but h
     * Transform the Data
     * Export the data into the RDS instance to create data tables for each dataset.
     
+* Upload starter code into Google Collab
+* Export Amazon Review data sets and pick two for analysis.
+* Extract the data
+* Transform the Data
+* Export the data into the RDS instance to create data tables for each dataset.
+
+### LINKS TO GOOGLE COLAB JUPYTER NOTEBOOKS
+
+<https://colab.research.google.com/drive/1WYO4qrq_LEAx0JKRlemX_cNbUl_DMCEs?usp=sharing>
+
+<https://colab.research.google.com/drive/1jiDmvEHJgn82hjudfS-cWqfRWvkrXCFz?usp=sharing>
+
   ### Part 2: Extract two Amazon customer review datasets and use either SQL or PySpark to analyze whether reviews from Amazon's Vine program are trustworthy.
   In Amazon's Vine program, reviewers receive free products in exchange for reviews. Amazon has several policies to reduce the bias of its Vine reviewsLinks to an           external site.
   
