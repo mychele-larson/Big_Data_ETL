@@ -28,15 +28,8 @@ This Challenge contains two parts. *Part 1 is required. Part 2 is optional but h
   ### Part 2: Extract two Amazon customer review datasets and use either SQL or PySpark to analyze whether reviews from Amazon's Vine program are trustworthy.
   In Amazon's Vine program, reviewers receive free products in exchange for reviews. Amazon has several policies to reduce the bias of its Vine reviewsLinks to an           external site.
   
-  ![image](https://user-images.githubusercontent.com/110074895/224514319-0fefc7e1-5dc5-4d60-9514-6b0c4c30c5b1.png)
+## FINDINGS AND ANALYSIS:
 
-  But are Vine reviews truly trustworthy?
-  Your task is to investigate whether Vine reviews are free of bias. Use either PySpark or, for an extra challenge, SQL to analyze the data.
-
-  If you choose SQL, first use Spark on Colab to extract and transform the data and then load it into a SQL table on your RDS account. Perform your analysis with SQL     queries on RDS. While there are no strict requirements for the analysis, consider steps you can take to reduce noisy data, such as filtering for reviews that meet a   certain number of helpful votes, total votes, or both.
-
- ### Submit a summary of your findings and analysis.
- 
  ## TOP 10 PRODUCTS WITH THE MOST AVERAGE TOTAL VOTES AND AVERAGE HELPFUL VOTES
 1.	Kyjen 2868 Slo-Bowl Slow Feeder Slow Feed Interactive Bloat Stop Dog Bowl, Large, Orange by Kyjen [Pet Supplies]
 2.	FRONTLINE PLUS for Dogs Flea & Tick 0-22 lbs Orange 3 Months
